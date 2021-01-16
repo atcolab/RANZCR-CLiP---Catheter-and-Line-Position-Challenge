@@ -1,0 +1,9 @@
+TRAIN_IMG_PATH = '../input/train/'
+KERNEL_TYPE = 'resnet34'
+NUM_EPOCHS = 10
+LR = 3e-4
+NUM_WORKERS = 4
+TRAIN_BS = 64
+VALID_BS = 64
+N_FOLDS = 4
+SEED = 42
